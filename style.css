@@ -1,0 +1,19 @@
+.jumbotron {
+	background-image: url('fiber-optic-1920x1200px.jpg');
+	background-attachment:fixed;
+	}
+#image h4{
+color:black;
+}	
+.h4 {
+	color:#5a5340;
+}
+#footer{
+		color:#191053;
+	}
+.center-block{
+float:none;}
+
+.con-2{
+	margin-left:26%;
+}	
